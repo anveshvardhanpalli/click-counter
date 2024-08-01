@@ -1,0 +1,28 @@
+/* Write your CSS here */
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f5f8;
+  height: 100vh;
+  background-size: cover;
+}
+.span {
+  color: #c20a72;
+}
+button {
+  background-color: #007bff;
+  color: #ffffff;
+  border: 0px;
+  border-radius: 5px;
+  height: 30px;
+  font-family: Roboto;
+  cursor: pointer;
+}
+h1,
+p {
+  color: #2d3a35;
+  font-family: Roboto;
+}
